@@ -1,0 +1,28 @@
+[submodule "extra-addons/mexico"]
+	path = extra-addons/mexico
+	url = git@git.indboo.com:Indboo-dev/mexico.git
+	branch = 12.0
+[submodule "extra-addons/vendor-bills"]
+	path = extra-addons/vendor-bills
+	url = git@git.indboo.com:Indboo-dev/vendor-bills.git
+	branch = 12.0
+[submodule "extra-addons/odoo_free_apps"]
+	path = extra-addons/odoo_free_apps
+	url = https://github.com/SolutionSeekers/odoo_free_apps
+	branch = 12.0
+[submodule "extra-addons/product-attribute"]
+	path = extra-addons/product-attribute
+	url = https://github.com/OCA/product-attribute
+	branch = 12.0
+[submodule "extra-addons/web"]
+	path = extra-addons/web
+	url = https://github.com/OCA/web
+	branch = 12.0
+[submodule "extra-addons/credit-control"]
+	path = extra-addons/credit-control
+	url = https://github.com/OCA/credit-control
+	branch = 12.0
+[submodule "extra-addons/reporting-engine"]
+	path = extra-addons/reporting-engine
+	url = https://github.com/onesteinbv/reporting-engine.git
+	branch = 12.0
